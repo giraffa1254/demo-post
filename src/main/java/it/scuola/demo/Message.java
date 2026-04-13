@@ -1,4 +1,4 @@
-package it.scuola.demopost;
+package it.scuola.demo;
 
  import jakarta.persistence.*;
 
