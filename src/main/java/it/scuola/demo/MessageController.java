@@ -22,4 +22,4 @@
  public Message create(@RequestBody Message msg) {
  return repo.save(msg);
  }
-}
+ }
