@@ -2,6 +2,7 @@ package it.scuola.demo;
 
  import jakarta.persistence.*;
 
+
 @Entity
 public class Message {
 
